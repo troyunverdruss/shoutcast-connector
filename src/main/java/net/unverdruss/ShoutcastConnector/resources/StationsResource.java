@@ -132,7 +132,12 @@ public class StationsResource {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return shoutcastStations.subList(0, count);
+
+        if (count > shoutcastStations.size()) {
+            return shoutcastStations;
+        } else {
+            return shoutcastStations.subList(0, count);
+        }
     }
 
     public String getShoutcastStationUrl(long stationId) {
