@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 930415,
+    "Name": "COOLfahrenheit 93",
+    "Format": "audio/mpeg",
+    "Bitrate": 48,
+    "Genre": "Adult Contemporary",
+    "CurrentTrack": "Room 39 - Restart",
+    "Listeners": 14810,
+    "IsRadionomy": false,
+    "IceUrl": null,
+    "IsPlaying": false
+  },
+  {
+    "ID": 160882,
+    "Name": "..:: RUSSIAN HIT - PYCCKUU XUT ::..",
+    "Format": "audio/aacp",
+    "Bitrate": 48,
+    "Genre": "Pop",
+    "CurrentTrack": null,
+    "Listeners": 8600,
+    "IsRadionomy": false,
+    "IceUrl": null,
+    "IsPlaying": false
+  },
+  {
+    "ID": 195363,
+    "Name": "Hitradio OE3",
+    "Format": "audio/mpeg",
+    "Bitrate": 128,
+    "Genre": "Pop",
+    "CurrentTrack": "Alan Walker - Faded",
+    "Listeners": 8123,
+    "IsRadionomy": false,
+    "IceUrl": null,
+    "IsPlaying": false
+  },
+  {
+    "ID": 1001815,
+    "Name": "COOLfahrenheit 93",
+    "Format": "audio/mpeg",
+    "Bitrate": 48,
+    "Genre": "Adult Contemporary",
+    "CurrentTrack": "Room 39 - Restart",
+    "Listeners": 7638,
+    "IsRadionomy": false,
+    "IceUrl": null,
+    "IsPlaying": false
+  },
+  {
+    "ID": 898221,
+    "Name": "idobi Radio: New. Music. Unfiltered. idobi.com",
+    "Format": "audio/mpeg",
+    "Bitrate": 128,
+    "Genre": "Alternative",
+    "CurrentTrack": "The Wonder Years - I Don`t Like Who I Was Then",
+    "Listeners": 6228,
+    "IsRadionomy": false,
+    "IceUrl": null,
+    "IsPlaying": false
+  }
+]
